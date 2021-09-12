@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ro4Ld4hCwGfOlVf3Imm0Afmbnxf8UNn6V8PtCvEBEvh7QJnPuTNw6vcprjtIeyeupYlaxa85Rpr13BSRki/opQ==",
+  "success": true,
+  "projectFilePath": "/home/miguel/git/poc-simple-net/poc-simple-net.csproj",
+  "expectedPackageFiles": [
+    "/home/miguel/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/miguel/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/miguel/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/miguel/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/miguel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/miguel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
