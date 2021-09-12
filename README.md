@@ -1,5 +1,5 @@
 # Description
-A simple Core .NET core PoC
+A simple API ASP NET Core PoC
 
 # Create project
 dotnet new webapi -o poc-net-simple --no-https
