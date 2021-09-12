@@ -2,7 +2,7 @@
 A simple Core .NET core PoC
 
 # Create project
-dotnet new webapi -o poc-net-simple --no-httpss
+dotnet new webapi -o poc-net-simple --no-https
 
 # Compile
 dotnet publish -c Release
