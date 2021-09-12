@@ -1,0 +1,11 @@
+/home/miguel/git/poc-simple-net/bin/Release/net5.0/publish/poc-simple-net
+/home/miguel/git/poc-simple-net/bin/Release/net5.0/publish/appsettings.Development.json
+/home/miguel/git/poc-simple-net/bin/Release/net5.0/publish/appsettings.json
+/home/miguel/git/poc-simple-net/bin/Release/net5.0/publish/poc-simple-net.dll
+/home/miguel/git/poc-simple-net/bin/Release/net5.0/publish/poc-simple-net.deps.json
+/home/miguel/git/poc-simple-net/bin/Release/net5.0/publish/poc-simple-net.runtimeconfig.json
+/home/miguel/git/poc-simple-net/bin/Release/net5.0/publish/poc-simple-net.pdb
+/home/miguel/git/poc-simple-net/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/home/miguel/git/poc-simple-net/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/miguel/git/poc-simple-net/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/miguel/git/poc-simple-net/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
