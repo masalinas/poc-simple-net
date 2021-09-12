@@ -6,7 +6,6 @@ dotnet new webapi -o poc-net-simple --no-https
 
 # Compile
 dotnet publish -c Release
-# dotnet build --configuration Release
 
 # Execute
 dotnet run
